@@ -1,0 +1,55 @@
+/* .Landing {
+  
+} */
+
+.Landing .title {
+  font-size: 6rem;
+  color: rgb(226, 226, 16);
+}
+
+.Landing .subtitle {
+  font-size: 2rem;
+  color: rgb(211, 35, 35);
+}
+
+.Landing .subscribed-message {
+  font-size: 1.8rem;
+  color: white;
+}
+
+.Landing .lander {
+  padding: 60px 0 20px;
+  text-align: center;
+}
+
+.Landing .lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.Landing .SubscribeBox {
+  padding: 30px 15vw 20px;
+}
+
+.Landing .subscribe-message {
+  font-size: 1.5rem;
+  color: white;
+}
+
+.Landing .SubscribeBox .submitButton {
+  background-color: white;
+  border-color: black;
+  color: chocolate;
+  font-weight: 600;
+}
+
+.Landing .SubscribeBox .submitButton:disabled {
+  background-color: white;
+  border-color: black;
+  color: #c7bfbf;
+  opacity: 70%;
+}
+
+.Landing .input-email {
+  text-align: center;
+}

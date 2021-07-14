@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: black;
+  min-height: 100vh;
+}
+
+.App .navbar {
+  background-color: black; /*rgb(46, 44, 44);*/
+  height: 12vh;
+}
+
+.App .navbar .company-title {
+  font-size: 2rem;
+  color: rgb(204, 182, 182);
+}
